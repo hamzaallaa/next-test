@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0b1020;
+  --card: #11172a;
+  --text: #e6ebff;
+}
+
+body {
+
+}
+.container {
+
+}
+.card {
+}
+.btn {
+}
+.table {
+}
+th, td { }
